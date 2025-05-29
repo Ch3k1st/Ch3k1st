@@ -1,17 +1,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/> </p> <h1 align="center">👋 Hi there, I'm Ali</h1> <p align="center"><strong>From the mountains of Dagestan, Russia 🇷🇺 🏔️</strong></p> <p align="center"><strong>Full-Stack Developer</strong> by day, <strong>ballistics enthusiast</strong> by night.</p>
-# 👋 Hi there, I'm Ali  
 
-**From the mountains of Dagestan, Russia** 🇷🇺 🏔️  
-**Full-Stack Developer** by day, **ballistics enthusiast** by night.  
-
-### 🛠️ Tech Stack  
-
-#### Core  
-| [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/) | [![Go](https://img.shields.io/badge/-GoLang-00ADD8?logo=go&logoColor=white)](https://golang.org/) |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-
-| [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> </p>
 
 #### Additional  
 | [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) | [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) |
