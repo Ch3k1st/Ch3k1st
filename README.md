@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Ali]  
+# 👋 Hi there, I'm Ali  
 **From the mountains of Dagestan, Russia** 🇷🇺 🏔️  
 
 **Full-Stack Developer** by day, **ballistics enthusiast** by night.  
