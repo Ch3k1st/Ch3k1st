@@ -59,7 +59,7 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/pandas/150458" width="32" title="Pandas" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/cyberdefenders/#335EEA" width="32" title="Cybersecurity / GNOME" />
+  <img src="https://cdn.simpleicons.org/owasp/1E90FF" width="32" title="Cybersecurity / GNOME" />
 </p>
 
 ---
