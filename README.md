@@ -3,21 +3,18 @@
 🛠️ Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> </p>
 
-#### Additional  
-| [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) | [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language)) |
-|:-----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+🧰 Additional
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" /> </p>
 
-#### Technologies & Tools  
-| [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) | [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) |
-|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+⚙️ Technologies & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-FF6F00?logo=githubactions&logoColor=white" /> </p>
 
-| [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![CI/CD](https://img.shields.io/badge/-CI/CD-FF6F00?logo=githubactions&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD) |
-|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+🔥 What I Do
+🌐 Web Development: Full-stack apps with a focus on performance and design
 
-### 🔥 What I Do  
-- **Web Development**: Crafting responsive and performant web apps (frontend + backend)  
-- **Systems Programming**: Exploring the depths of Go and C for high-performance solutions  
-- **DevOps**: Automating workflows with Docker and CI/CD pipelines  
+⚙️ Systems Programming: Low-level logic in Go & C
+
+🚀 DevOps: Automating and containerizing with Docker & CI/CD
 
 ### 🎯 On My Learning Radar  
 | [![ROS](https://img.shields.io/badge/-Robotics-22314E?logo=ros&logoColor=white)](https://www.ros.org/) | [![TensorFlow](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) |
