@@ -1,8 +1,7 @@
 
 # 👋 Hi there, I'm Ali  
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHppYmN1NmczOWFma2hjM3ZzN2Rqa3cyeTkyNzVhZmx2c2FvdHcwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif" width="200">
-</p>
+![Matrix](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 **From the mountains of Dagestan, Russia** 🇷🇺 🏔️  
 
 **Full-Stack Developer** by day, **ballistics enthusiast** by night.  
