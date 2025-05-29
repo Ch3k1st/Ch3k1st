@@ -10,16 +10,16 @@
 <p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-FF6F00?logo=githubactions&logoColor=white" /> </p>
 
 🔥 What I Do
-<p align="center"> 🚀 <strong>Web Development:</strong> Crafting responsive and performant web apps (frontend + backend).<br/> ⚙️ <strong>Systems Programming:</strong> Exploring the depths of Go and C for high-performance solutions.<br/> 🛠️ <strong>DevOps:</strong> Automating workflows with Docker and CI/CD pipelines. </p>
+<p align="left"> 🚀 <strong>Web Development:</strong> Crafting responsive and performant web apps (frontend + backend).<br/> ⚙️ <strong>Systems Programming:</strong> Exploring the depths of Go and C for high-performance solutions.<br/> 🛠️ <strong>DevOps:</strong> Automating workflows with Docker and CI/CD pipelines. </p>
 
 🎯 On My Learning Radar
 <p align="center"> <img src="https://img.shields.io/badge/Robotics-22314E?logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Science-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-4B8BBE?logo=icloud&logoColor=white" /> </p>
 
 🌍 About Me
-<p align="center"> 📍 Based in <strong>Derbent, Dagestan</strong> — the oldest city in Russia!<br/> 🏔️ Writing code with the <strong>Caucasus mountains</strong> as my backdrop.<br/> 🍵 My coding stamina comes from <strong>Dagestani chai and khinkal</strong>.<br/> 🧬 Bridging <strong>tech and traditions</strong> in everything I build. </p>
+<p align="left"> 📍 Based in <strong>Derbent, Dagestan</strong> — the oldest city in Russia!<br/> 🏔️ Writing code with the <strong>Caucasus mountains</strong> as my backdrop.<br/> 🍵 My coding stamina comes from <strong>Dagestani chai and khinkal</strong>.<br/> 🧬 Bridging <strong>tech and traditions</strong> in everything I build. </p>
 
 🕵️‍♂️ Off-Code Interests
-<p align="center"> 🔫 <strong>Ballistics Specialist:</strong> Geeking out over firearm mechanics and historical weaponry.<br/> 🧠 <strong>Digital Forensics & OSINT:</strong> Solving puzzles in cyberspace and beyond. </p> 
+<p align="left"> 🔫 <strong>Ballistics Specialist:</strong> Geeking out over firearm mechanics and historical weaponry.<br/> 🧠 <strong>Digital Forensics & OSINT:</strong> Solving puzzles in cyberspace and beyond. </p> 
 
 📫 Let’s Connect
 <p align="center"> <a href="https://github.com/Ch3k1st"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> </a> </p>
