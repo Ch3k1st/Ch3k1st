@@ -1,6 +1,4 @@
-| <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"> |
-|:---------------------------------------------------------------------------------:|
-
+<p align="center"> <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/> </p> <h1 align="center">👋 Hi there, I'm Ali</h1> <p align="center"><strong>From the mountains of Dagestan, Russia 🇷🇺 🏔️</strong></p> <p align="center"><strong>Full-Stack Developer</strong> by day, <strong>ballistics enthusiast</strong> by night.</p>
 # 👋 Hi there, I'm Ali  
 
 **From the mountains of Dagestan, Russia** 🇷🇺 🏔️  
