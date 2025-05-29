@@ -1,6 +1,7 @@
+![Matrix](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 # 👋 Hi there, I'm Ali  
-![Matrix](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 
 **From the mountains of Dagestan, Russia** 🇷🇺 🏔️  
 
@@ -15,11 +16,9 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Additional:** 
-<p align="center">
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go" />
-    [![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-</p>
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 **Technologies & Tools:**  
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
