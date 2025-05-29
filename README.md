@@ -94,5 +94,5 @@
 <p align="center"><em>⭐ Fun Fact: I can debug code *and* disassemble a rifle blindfolded. Efficiency matters.</em></p>
 
 <p align="center"> 
-  <img src="https://tenor.com/ru/view/wildfireuv-gif-24583222?utm_source=share-button&utm_medium=Social&utm_content=pinterest" width="300"/> 
+  <img src="hasbik.gif" width="300"/> 
 </p> 
