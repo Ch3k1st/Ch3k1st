@@ -94,5 +94,5 @@
 <p align="center"><em>⭐ Fun Fact: I can debug code *and* disassemble a rifle blindfolded. Efficiency matters.</em></p>
 
 <p align="center"> 
-  <img src="hasbik.gif" width="300"/> 
-</p> 
+  <img src="https://raw.githubusercontent.com/Ch3k1st/Ch3k1st/main/hasbik.gif" width="300"/> 
+</p>
