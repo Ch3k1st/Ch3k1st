@@ -16,7 +16,8 @@
 
 **Additional:** 
 <p align="center">
-[![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go" />
+    [![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 </p>
 
