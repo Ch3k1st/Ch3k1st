@@ -1,7 +1,7 @@
-
+<div align="center">
 # 👋 Hi there, I'm Ali  
 ![Matrix](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
-
+<div/>
 **From the mountains of Dagestan, Russia** 🇷🇺 🏔️  
 
 **Full-Stack Developer** by day, **ballistics enthusiast** by night.  
