@@ -10,34 +10,19 @@
 <p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/CI/CD-FF6F00?logo=githubactions&logoColor=white" /> </p>
 
 🔥 What I Do
-🌐 Web Development: Full-stack apps with a focus on performance and design
+<p align="center"> 🚀 <strong>Web Development:</strong> Crafting responsive and performant web apps (frontend + backend).<br/> ⚙️ <strong>Systems Programming:</strong> Exploring the depths of Go and C for high-performance solutions.<br/> 🛠️ <strong>DevOps:</strong> Automating workflows with Docker and CI/CD pipelines. </p>
 
-⚙️ Systems Programming: Low-level logic in Go & C
+🎯 On My Learning Radar
+<p align="center"> <img src="https://img.shields.io/badge/Robotics-22314E?logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Science-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-4B8BBE?logo=icloud&logoColor=white" /> </p>
 
-🚀 DevOps: Automating and containerizing with Docker & CI/CD
+🌍 About Me
+<p align="center"> 📍 Based in <strong>Derbent, Dagestan</strong> — the oldest city in Russia!<br/> 🏔️ Writing code with the <strong>Caucasus mountains</strong> as my backdrop.<br/> 🍵 My coding stamina comes from <strong>Dagestani chai and khinkal</strong>.<br/> 🧬 Bridging <strong>tech and traditions</strong> in everything I build. </p>
 
-### 🎯 On My Learning Radar  
-| [![ROS](https://img.shields.io/badge/-Robotics-22314E?logo=ros&logoColor=white)](https://www.ros.org/) | [![TensorFlow](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) |
-|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+🕵️‍♂️ Off-Code Interests
+<p align="center"> 🔫 <strong>Ballistics Specialist:</strong> Geeking out over firearm mechanics and historical weaponry.<br/> 🧠 <strong>Digital Forensics & OSINT:</strong> Solving puzzles in cyberspace and beyond. </p> 
 
-| [![Pandas](https://img.shields.io/badge/-Data%20Science-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) | [![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-4B8BBE?logo=icloud&logoColor=white)](https://en.wikipedia.org/wiki/Cybersecurity) |
-|:----------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
-
-### 🌍 About Me  
-- Based in **Derbent, Dagestan** (Russian Federation) — the oldest city in Russia!  
-- Writing code with the **Caucasus mountains** as my backdrop  
-- My coding stamina comes from **Dagestani chai and khinkal**  
-- Bridging tech and traditions in everything I build  
-
-### 🕵️‍♂️ Off-Code Interests  
-When I'm not coding:  
-- **Ballistics Specialist**: Geeking out over firearm mechanics  
-- **Digital Forensics** & **OSINT**: Solving cyber puzzles  
-
-### 📫 Let's Connect  
-| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Ch3k1st) |
-|:----------------------------------------------------------------------------------------------:|
-
+📫 Let’s Connect
+<p align="center"> <a href="https://github.com/Ch3k1st"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> </a> </p>
 ---
 
-⭐ **Fun Fact**: I can debug code *and* disassemble a rifle blindfolded. **Efficiency matters.**
+<p align="center"><em>⭐ Fun Fact: I can debug code *and* disassemble a rifle blindfolded. Efficiency matters.</em></p>
